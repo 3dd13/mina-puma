@@ -1,1 +1,6 @@
-load File.expand_path("../puma/tasks.rake", __FILE__)
+require 'mina/puma/version'
+
+module Mina
+  module Puma
+  end
+end
